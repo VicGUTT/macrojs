@@ -1,6 +1,6 @@
 {
     "name": "@vicgutt/macrojs",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "Easily assign properties and methods to an object/function",
     "author": "Victor GUTT <guttvictor@yahoo.fr> (https://victorgutt.dev)",
     "license": "MIT",
